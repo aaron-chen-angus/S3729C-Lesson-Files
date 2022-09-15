@@ -2,9 +2,10 @@ library(shiny)
 library(dplyr)
 library(tmaptools)
 library(leaflet)
-df_prop <- readRDS("SG_panel_prop.rds")
+df_prop <- readRDS(gzcon(url("https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/SG_panel_prop.rds")))
 df_prop$pc80 <- 100 - df_prop$pc80
-sg_map <- readRDS("SG_map.rds")
+sg_map <- readRDS(gzcon(url("https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/SG_map.rds")))
+
 
 ui <- fluidPage(
   
@@ -25,7 +26,7 @@ ui <- fluidPage(
       p("Note: Income data is linearly interpolated to calculate the percentile distribution and
            comparisons across time may be inaccurate.
            Full set of code and data to reproduce the plot can be found",
-        a("here.", href="https://github.com/timlrx/sg-mapping"))
+        a("here.", href="https://github.com/aaron-chen-angus/S3729C-Lesson-Files/blob/main/SGMap01.R"))
     ),
     
     # Show a plot of the generated distribution
