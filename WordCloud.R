@@ -1,10 +1,11 @@
+# Load packages ----------------------------------------------------------------
+
 library(shiny)
-# install.packages("wordcloud2")
 library(wordcloud2)
-# install.packages("tm")
 library(tm)
-# install.packages("colourpicker")
 library(colourpicker)
+
+# Define UI --------------------------------------------------------------------
 
 ui <- fluidPage(
   h1("Word Cloud"),
@@ -132,6 +133,8 @@ ui <- fluidPage(
   )
 )
 
+# Define server ----------------------------------------------------------------
+
 server <- function(input, output) {
   data_source <- reactive({
     if (input$source == "lyrics") {
@@ -199,5 +202,7 @@ server <- function(input, output) {
     )
   })
 }
+
+# Create the Shiny app object --------------------------------------------------
 
 shinyApp(ui = ui, server = server)
