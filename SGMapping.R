@@ -3,13 +3,14 @@
 library(shiny)
 library(dplyr)
 library(tmaptools)
+library(tmap)
 library(leaflet)
 
 # Load data --------------------------------------------------------------------
 
-df_prop <- readRDS("SG_panel_prop.rds")
+df_prop <- read.csv(file = "https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/SG_panel_prop.csv", header = TRUE, sep = ",")
 df_prop$pc80 <- 100 - df_prop$pc80
-sg_map <- readRDS("SG_map.rds")
+sg_map <- read.csv(file = "https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/SG_map.csv", header = TRUE, sep = ",")
 
 # Define UI --------------------------------------------------------------------
 

@@ -1,14 +1,15 @@
 # Load packages ----------------------------------------------------------------
 
 library(shiny)
+library(shinythemes)
 library(wordcloud2)
 library(tm)
 library(colourpicker)
 
 # Define UI --------------------------------------------------------------------
 
-ui <- fluidPage(
-  h1("Word Cloud"),
+ui <- fluidPage(theme = shinytheme("flatly"),
+  h1("Word Cloud Generator"),
   h4(tags$a(href = "https://shiny.rstudio.com/", "Powered by R Shiny")),
   # Create a container for tab panels
   tabsetPanel(

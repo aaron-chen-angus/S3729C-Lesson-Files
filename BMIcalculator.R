@@ -6,7 +6,7 @@ library(shinythemes)
 
 # Define UI --------------------------------------------------------------------
 
-ui <- fluidPage(theme = shinytheme("cyborg"),
+ui <- fluidPage(theme = shinytheme("united"),
                 navbarPage("BMI Calculator:",
                            
                            tabPanel("Home",

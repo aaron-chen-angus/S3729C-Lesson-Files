@@ -18,7 +18,7 @@ library(TTR)
 
 # Define UI --------------------------------------------------------------------
 
-ui <- fluidPage(
+ui <- fluidPage(theme = shinytheme("sandstone"),
   
   # tags$head(tags$style(HTML("
   #       .selectize-input, .selectize-dropdown {
