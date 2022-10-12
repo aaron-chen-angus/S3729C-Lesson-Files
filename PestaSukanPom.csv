@@ -1,0 +1,120 @@
+Category,Gender,Club,Name,BeltLevel,Placing ,Age,JudgeScore1,JudgeScore2
+Young,F,JH Kim TKD (SGC),Faith Goh Min En,Yellow,1,24,36,39
+Young,M,Acme Sabertooth,Lucas Joel Imhof,Yellow,1,26,37,41
+Young,F,Raiders TKD,Stephanie Chew En Hui,Green,1,33,40,42
+Young,F,Raiders TKD,Rossa Maria,Green,2,24,35,39
+Young,F,Raiders TKD,Nur Sharleez,Green,3,29,44,36
+Young,F,Acme Sabertooth,Fong Shi Teng Valyn,Green,4,28,52,37
+Young,F,Akira X TKD,Genieve Lim,Blue,1,20,36,41
+Young,F,KronosTKD,Poh Wy Ing Maegan,Blue,2,22,40,38
+Young,F,JH Kim (Bukit Timah),Noelle Ng Xuan Ya,Blue,3,19,41,40
+Young,F,JH Kim (Bukit Timah),Agna Rahul,Blue,4,32,48,38
+Young,M,Taeseong TKD (GH),Sam Yuk Hang,Blue ,1,31,50,40
+Young ,F,Acme Sabertooth,Chin Shao En Cassandra,Red,1,21,38,39
+Young ,F,Acme Sabertooth,Tay Xin Yi Aryel,Red,2,29,51,39
+Young ,F,Acme TKD,Lam Ying Xin Givonne,Red,3,35,36,37
+Young ,F,Akira X TKD,Lyris Sim,Red,4,34,48,40
+Young,M,Acme Sabertooth,Dayrius Low Ding Heng,Red,1,26,55,42
+Young,M,KTMA Academy,Zavier Clyde Sutedjo,Red,2,35,45,36
+Young,M,Acme Aptos TKD,Tan Hao Yi,Red,3,25,46,39
+Young,M,Akira X TKD,Harry Tan,Red,4,28,52,35
+Young ,F,JH Kim TKD (Bt Timah),Yeo Chen Xi Kaylea,Poom,1,29,37,37
+Young ,F,JH Kim TKD (SGC),Tan Xin Jie Germaine,Poom,2,24,35,35
+Young ,F,JH Kim TKD (Bt Timah),Sofia Rai Binte Robby,Poom,3,27,43,37
+Young ,F,Jh Kim TKD(Main),Tan Yoon Hsi Elianna,Poom,4,21,49,37
+Young,M,Global TKD,Mitchell Kody Chan,Poom,1,23,38,42
+Young,M,Induk TKD,Shaw Kai Jun Jaeden,Poom,2,23,41,42
+Young,M,JH Kim TKD (Bt Timah),Ethan Liow Yong En,Poom,3,23,42,38
+Young,M,JH Kim TKD (SGC),Neaw Kai Wen,Poom,4,20,42,40
+Cadet,F,JH Kim TKD (SGC),Chai Chang Xuan Cheryl,Yellow,1,19,35,38
+Cadet,F,JH Kim TKD (SGC),Thien Ke Xi,Yellow,2,35,36,36
+Cadet,F,Global TKD,Skye Phua Xin,Yellow,3,29,49,35
+Cadet,F,Acme Sabertooth,Esther Jane Foong Yun Chu,Yellow,4,34,35,41
+Cadet ,M,Johan TKD,Koh Hong Jun,Green,1,33,55,41
+Cadet ,F,Johan TKD,Isabelle Lai,Blue,1,24,46,40
+Cadet ,F,Verve TKD,Natalie Ong Ying En,Blue,2,20,54,37
+Cadet ,F,Akira X TKD,Faith Seah,Blue,3,29,45,38
+Cadet ,F,Summit TKD,Yap Su Yi,Blue,4,31,35,37
+Cadet,M,Kronos TKD,Talon Lee Ying Xian,Blue,1,31,46,37
+Cadet,M,Kronos TKD,Mak Yong Xuan,Blue,2,28,41,39
+Cadet,M,Kronos TKD,Declann Pillai,Blue,3,35,47,42
+Cadet,M,Kickmatics TKD,Noel Low En Xuan,Blue,4,27,55,36
+Cadet ,F,Acme TKD,Kacey Ong Shi Ni,Red,1,18,38,41
+Cadet ,F,Akira X TKD,Landee Neo,Red,2,20,43,41
+Cadet ,F,Kronos TKD,Adwynna Mae Lee Ting,Red,3,19,45,37
+Cadet ,F,Zen Academy,Koh Kai En,Red,4,21,49,36
+Cadet,M,ECTC Galaxia TKD,Jason Low Hui Yee,Red,1,35,52,39
+Cadet,M,Akira X TKD,Hugo Tan,Red,2,26,41,39
+Cadet,M,Zen Academy,Bryan Tay Zhang Yi,Red,3,31,46,36
+Cadet,M,ECTC Galaxia TKD,Wang Yan Qi,Red,4,33,40,42
+Cadet ,F,Acme Sabertooth,Daycia Low Xin Er,Poom,1,26,41,41
+Cadet ,F,Hybsport TKD,Koh En Qi Gwen,Poom,2,28,37,36
+Cadet ,F,JH Kim TKD (Bt Timah),Zlata Chaykun,Poom,3,23,53,35
+Cadet ,F,Acme Sabertooth,Tay Xin En Rianne,Poom,4,22,41,40
+Cadet,M,Acme Sabertooth,Nicholas Koivuaho,Poom,1,23,51,42
+Cadet,M,JH Kim TKD (SGC),Neaw Kai Jie,Poom,2,35,43,36
+Cadet,M,Acme AptosTKD,KAEDRIN HERMAN ISAACS,Poom,3,34,46,40
+Cadet,M,KTMA Academy,Wong Yit Terng Ethan,Poom,4,35,47,37
+Junior,F,CADRE Academy,Leow Hai Qi,Yellow,1,26,45,38
+Junior,F,Eunoia JC,Cheong Kai Xin,Yellow,2,29,38,37
+Junior,F,CADRE Academy,Koh Ying Rou,Yellow,3,18,55,40
+Junior,F,Kronos TKD,Yeung Yan Xin Elodie,Yellow,4,20,39,36
+Junior ,M,Kronos TKD,Lim Di Chen,Yellow,1,35,51,38
+Junior ,M,Kronos TKD,Ahmad Yasir,Yellow,2,28,44,41
+Junior ,M,Temasek Poly,Tan Xavier,Yellow,3,26,53,35
+Junior ,M,Zen Academy,Ian Ng Khai Ven,Yellow,4,21,43,39
+Junior ,F,Eunoia JC,Angil Chin,Green,1,21,37,41
+Junior ,F,Eunoia JC,Tristen Faith Lee Kai Yun,Green,2,30,48,42
+Junior ,F,Eunoia JC,Gu Jiayi,Green,3,28,52,41
+Junior ,F,Eunoia JC,Yasmynn Dinoalfian,Green,4,18,36,36
+Junior,F,ECTC Galaxia TKD,Boon Yan Tong,Blue,1,23,35,35
+Junior,F,Temasek Poly,Yang Cai Xuan Bernice,Blue,2,28,42,39
+Junior,F,Zen Academy,Alyssa Lee Qin Ying,Red,1,25,48,39
+Junior,F,Global TKD,Low Jing Yi,Red,2,33,53,40
+Junior,F,Zen Academy,Koh Xue Qi Ashley,Red,3,27,44,37
+Junior,F,Acme Sabertooth,Janet Lau Li Shi,Red,4,22,51,42
+Junior,M,Johan TKD,Alexander Tang,Red,1,19,44,42
+Junior,M,Akira X TKD,Benjamin Tan,Red,2,23,43,40
+Junior,M,Kronos TKD,Lau Tyler,Red,3,19,42,36
+Junior,M,Kronos TKD,Wang Hong Yi,Red,4,25,43,35
+Junior,F,Temasek Poly,Germaine Loi Jia Min,Black,1,24,45,42
+Junior,F,JH Kim TKD (Bt Timah),Amelia Tan Ying Xuan,Black,2,25,38,39
+Junior,F,JH Kim TKD (SGC),Louise Faith Ng,Black,3,26,37,40
+Junior,F,JH Kim TKD (Bt Timah),Andrea Gracia Andradi,Black,4,25,44,36
+Junior,M,Global TKD,Nicholas Adam Khaw Hoong Keat,Black,1,19,41,41
+Junior,M,Acme Sabertooth,Fong Peng Shin Ranen,Black,2,20,48,39
+Junior,M,Global TKD,Yeo Zhi Jie Aloysius,Black,3,30,49,40
+Junior,M,JH Kim TKD (Bt Timah),Lim Rui Yang,Black,4,27,38,37
+Senior 1,F,Temasek Poly,Ng Eng Ki,Green,1,24,51,40
+Senior 1,F,JH Kim TKD (Bt Timah),Leong Sheau Zhin (Catheryn),Green,2,27,49,40
+Senior 1,F,Temasek Poly,Yamna Baig,Green,3,19,38,41
+Senior 1,F,ECTC Galaxia TKD,Stella Seah Shu Jun,Green,4,20,44,35
+Senior 1,M,Temasek Poly,Kwok kit sew Jaasau,Green,1,34,47,36
+Senior 1,M,Zen Academy,Ang Zheng Yu,Green,2,22,48,35
+Senior 1,F,NUS TKD,Cheong Wei Shan,Blue,1,22,44,37
+Senior 1,F,Temasek Poly,Arshiya Jawahar Ali Sirajudeen,Blue,2,26,50,35
+Senior 1,F,Temasek Poly,Fang Sing Er,Blue,3,31,54,36
+Senior 1,F,NTU TKD Club,Li Jiang Rong,Blue,4,19,45,37
+Senior 1,M,Temasek Poly,Jeredonn Ng Ren Hao,Blue,1,20,40,38
+Senior 1,M,Singapore Poly TKD,Lim Zheng Yu Declan,Blue,2,25,46,39
+Senior 1,M,Temasek Poly,Al-Asree BIN KHAIRIL ANUAR,Blue,3,30,48,40
+Senior 1,F,Zen Academy,Tay Wen Xuan Alethea,Red,1,35,43,38
+Senior 1,F,Kwontum TKD,Rachael Lee Yu Kee,Red,2,28,46,38
+Senior 1,F,NUS TKD,Celine Siah Wen Hui,Red,3,23,52,35
+Senior 1,F,Kickmatics TKD,Vivian Seow Tian Tian,Red,4,26,35,38
+Senior 1,M,Temasek Poly,Loh Javier,Red,1,23,48,40
+Senior 1,M,Global TKD,Javier Seng Jie Le,Red,2,30,39,40
+Senior 1,M,Temasek Poly,Braver pay yee funn,Red,3,28,44,41
+Senior 1,M,Zen Academy,Chew Yue Jun Jerrell,Red,4,26,48,37
+Senior 1,F,Acme TKD,Diyanah Aqidah,Black,1,29,50,41
+Senior 1,F,Acme TKD,Chin Ying Xuan Megan,Black,2,27,44,40
+Senior 1,F,Global TKD,Nicole Alethea Khaw Mei Shan,Black,3,24,53,42
+Senior 1,F,Acme TKD,Valerie Kang Yi Xuan,Black,4,30,50,38
+Senior 1,M,Temasek Poly,De Cruz D'Artagnan Donavan,Black,1,29,40,35
+Senior 1,M,Acme Sabertooth,Declan Joseph Ng Ooi Khaw,Black,2,22,50,39
+Senior 1,M,Kwontum TKD,Tristan Lew Zhong Sheng,Black,3,25,38,39
+Senior 1,M,Temasek Poly,Muhammad Danish,Black,4,31,41,39
+Senior 2 ,M,Ad Infinitum TKD,Eric Li,Black,1,23,53,41
+Senior 2 ,M,Top TKD Academy,Song JeongHo,Black,2,20,36,41
+Senior 2 ,M,Hybsport TKD,Mok Li Hao Thomas,Black,3,22,46,36
+Senior 2 ,M,PAP Leng Kee,Ng Keng Boon,Black,4,32,47,35
