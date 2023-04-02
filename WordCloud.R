@@ -22,7 +22,7 @@ ui <- fluidPage(theme = shinytheme("flatly"),
             inputId = "source",
             label = "Word source",
             choices = c(
-              "Dynamite by BTS" = "lyrics",
+              "Mend by Alyssa Lie" = "lyrics",
               "Use your own words" = "own",
               "Upload a file" = "file"
             )
@@ -119,9 +119,9 @@ ui <- fluidPage(theme = shinytheme("flatly"),
        <li>If it is a .csv file, there should be only one column containing all words or sentences (see below for example files)</li>
        <li>Numbers and punctuations will be automatically removed, as well as stop words in the language of your choice (via the dropdown selector)</li></ul>"),
       "Example files:",
-      tags$a(href = "https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/Dynamite.csv", "example.csv"),
+      tags$a(href = "https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/Mend.csv", "example.csv"),
       "and",
-      tags$a(href = "https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/Dynamite.txt", "example.txt"),
+      tags$a(href = "https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/Mend.txt", "example.txt"),
       br(),
       br(),
       em("Created Using : R Shiny"),
@@ -139,7 +139,7 @@ ui <- fluidPage(theme = shinytheme("flatly"),
 server <- function(input, output) {
   data_source <- reactive({
     if (input$source == "lyrics") {
-      data <- read.csv("https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/Dynamite.csv",
+      data <- read.csv("https://raw.githubusercontent.com/aaron-chen-angus/S3729C-Lesson-Files/main/Mend.csv",
                        sep = "&",
                        stringsAsFactors = FALSE
       )

@@ -1,6 +1,7 @@
 # Load packages ----------------------------------------------------------------
 
 library(shiny)
+library(shinythemes)
 library(shinydashboard)        
 library(nortest)
 library(mvnormtest)
